@@ -1,0 +1,11 @@
+C:\Users\Chuck\source\repos\CodeDone-Second\Fifth Week\codes\Csharp\Fifth Week\Fifth Week\bin\Debug\netcoreapp3.1\Fifth Week.exe
+C:\Users\Chuck\source\repos\CodeDone-Second\Fifth Week\codes\Csharp\Fifth Week\Fifth Week\bin\Debug\netcoreapp3.1\Fifth Week.deps.json
+C:\Users\Chuck\source\repos\CodeDone-Second\Fifth Week\codes\Csharp\Fifth Week\Fifth Week\bin\Debug\netcoreapp3.1\Fifth Week.runtimeconfig.json
+C:\Users\Chuck\source\repos\CodeDone-Second\Fifth Week\codes\Csharp\Fifth Week\Fifth Week\bin\Debug\netcoreapp3.1\Fifth Week.runtimeconfig.dev.json
+C:\Users\Chuck\source\repos\CodeDone-Second\Fifth Week\codes\Csharp\Fifth Week\Fifth Week\bin\Debug\netcoreapp3.1\Fifth Week.dll
+C:\Users\Chuck\source\repos\CodeDone-Second\Fifth Week\codes\Csharp\Fifth Week\Fifth Week\bin\Debug\netcoreapp3.1\Fifth Week.pdb
+C:\Users\Chuck\source\repos\CodeDone-Second\Fifth Week\codes\Csharp\Fifth Week\Fifth Week\obj\Debug\netcoreapp3.1\Fifth Week.csprojAssemblyReference.cache
+C:\Users\Chuck\source\repos\CodeDone-Second\Fifth Week\codes\Csharp\Fifth Week\Fifth Week\obj\Debug\netcoreapp3.1\Fifth Week.AssemblyInfoInputs.cache
+C:\Users\Chuck\source\repos\CodeDone-Second\Fifth Week\codes\Csharp\Fifth Week\Fifth Week\obj\Debug\netcoreapp3.1\Fifth Week.AssemblyInfo.cs
+C:\Users\Chuck\source\repos\CodeDone-Second\Fifth Week\codes\Csharp\Fifth Week\Fifth Week\obj\Debug\netcoreapp3.1\Fifth Week.dll
+C:\Users\Chuck\source\repos\CodeDone-Second\Fifth Week\codes\Csharp\Fifth Week\Fifth Week\obj\Debug\netcoreapp3.1\Fifth Week.pdb
